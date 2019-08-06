@@ -1,0 +1,10 @@
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\bin\Debug\WinFormsDemo.exe.config
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\bin\Debug\WinFormsDemo.exe
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\bin\Debug\WinFormsDemo.pdb
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\obj\Debug\WinFormsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\obj\Debug\WinFormsDemo.Form1.resources
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\obj\Debug\WinFormsDemo.Properties.Resources.resources
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\obj\Debug\WinFormsDemo.csproj.GenerateResource.Cache
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\obj\Debug\WinFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\obj\Debug\WinFormsDemo.exe
+C:\Users\Kranthi.Mittapalli\Desktop\Prjts\WinFormsDemo\WinFormsDemo\obj\Debug\WinFormsDemo.pdb

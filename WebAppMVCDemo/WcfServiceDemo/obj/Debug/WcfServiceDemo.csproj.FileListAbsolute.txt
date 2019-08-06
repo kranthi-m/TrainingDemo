@@ -1,0 +1,6 @@
+C:\Users\ais\Desktop\Prjts\WebAppMVCDemo\WcfServiceDemo\bin\WcfServiceDemo.dll.config
+C:\Users\ais\Desktop\Prjts\WebAppMVCDemo\WcfServiceDemo\bin\WcfServiceDemo.dll
+C:\Users\ais\Desktop\Prjts\WebAppMVCDemo\WcfServiceDemo\bin\WcfServiceDemo.pdb
+C:\Users\ais\Desktop\Prjts\WebAppMVCDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.csproj.CoreCompileInputs.cache
+C:\Users\ais\Desktop\Prjts\WebAppMVCDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.dll
+C:\Users\ais\Desktop\Prjts\WebAppMVCDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.pdb
