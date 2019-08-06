@@ -1,0 +1,6 @@
+D:\Kranthi\Learn\Teach\TrainingDemo\Collections\bin\Debug\Collections.dll
+D:\Kranthi\Learn\Teach\TrainingDemo\Collections\bin\Debug\Collections.pdb
+D:\Kranthi\Learn\Teach\TrainingDemo\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\Collections\obj\Debug\Collections.dll
+D:\Kranthi\Learn\Teach\TrainingDemo\Collections\obj\Debug\Collections.pdb

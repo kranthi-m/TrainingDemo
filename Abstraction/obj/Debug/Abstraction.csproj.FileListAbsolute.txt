@@ -1,0 +1,7 @@
+D:\Kranthi\Learn\Teach\TrainingDemo\Abstraction\bin\Debug\Abstraction.exe.config
+D:\Kranthi\Learn\Teach\TrainingDemo\Abstraction\bin\Debug\Abstraction.exe
+D:\Kranthi\Learn\Teach\TrainingDemo\Abstraction\bin\Debug\Abstraction.pdb
+D:\Kranthi\Learn\Teach\TrainingDemo\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\Abstraction\obj\Debug\Abstraction.exe
+D:\Kranthi\Learn\Teach\TrainingDemo\Abstraction\obj\Debug\Abstraction.pdb

@@ -1,0 +1,7 @@
+D:\Kranthi\Learn\Teach\TrainingDemo\NamespaceDemo\bin\Debug\NamespaceDemo.exe.config
+D:\Kranthi\Learn\Teach\TrainingDemo\NamespaceDemo\bin\Debug\NamespaceDemo.exe
+D:\Kranthi\Learn\Teach\TrainingDemo\NamespaceDemo\bin\Debug\NamespaceDemo.pdb
+D:\Kranthi\Learn\Teach\TrainingDemo\NamespaceDemo\obj\Debug\NamespaceDemo.csproj.CoreCompileInputs.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\NamespaceDemo\obj\Debug\NamespaceDemo.exe
+D:\Kranthi\Learn\Teach\TrainingDemo\NamespaceDemo\obj\Debug\NamespaceDemo.pdb
+D:\Kranthi\Learn\Teach\TrainingDemo\NamespaceDemo\obj\Debug\NamespaceDemo.csprojResolveAssemblyReference.cache

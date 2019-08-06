@@ -1,0 +1,7 @@
+D:\Kranthi\Learn\Teach\TrainingDemo\ADO.NetSample\bin\Debug\ADO.NetSample.exe.config
+D:\Kranthi\Learn\Teach\TrainingDemo\ADO.NetSample\bin\Debug\ADO.NetSample.exe
+D:\Kranthi\Learn\Teach\TrainingDemo\ADO.NetSample\bin\Debug\ADO.NetSample.pdb
+D:\Kranthi\Learn\Teach\TrainingDemo\ADO.NetSample\obj\Debug\ADO.NetSample.csprojResolveAssemblyReference.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\ADO.NetSample\obj\Debug\ADO.NetSample.csproj.CoreCompileInputs.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\ADO.NetSample\obj\Debug\ADO.NetSample.exe
+D:\Kranthi\Learn\Teach\TrainingDemo\ADO.NetSample\obj\Debug\ADO.NetSample.pdb

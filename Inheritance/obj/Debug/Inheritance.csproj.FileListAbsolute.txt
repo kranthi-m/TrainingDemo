@@ -1,0 +1,7 @@
+D:\Kranthi\Learn\Teach\TrainingDemo\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Kranthi\Learn\Teach\TrainingDemo\Inheritance\bin\Debug\Inheritance.exe
+D:\Kranthi\Learn\Teach\TrainingDemo\Inheritance\bin\Debug\Inheritance.pdb
+D:\Kranthi\Learn\Teach\TrainingDemo\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Kranthi\Learn\Teach\TrainingDemo\Inheritance\obj\Debug\Inheritance.exe
+D:\Kranthi\Learn\Teach\TrainingDemo\Inheritance\obj\Debug\Inheritance.pdb
